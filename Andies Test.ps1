@@ -1,2 +1,2 @@
 # Andies Test
-Get-NetAdapter | Format-Table bledsinn
+Get-NetAdapter | Format-Table
